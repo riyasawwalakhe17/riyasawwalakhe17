@@ -3,7 +3,7 @@
 
 💡 Always eager to learn and build scalable backend systems with clean, maintainable code.
 
-- 🔭 I’m currently working on: **VehixOne – Vehicle Management System**  
+- 🔭 I’m currently working on: **VehiScoc – Vehicle Management System for Society**  
   *(Spring Boot + PostgreSQL + Swagger + SLF4J)*  
 - 🌱 I’m currently learning: **Advanced Java, Spring Boot Microservices, and Cloud (Azure)**  
 - 👯 I’m looking to collaborate on: **Java + Spring Boot projects, Open Source APIs, and Full Stack applications**  
