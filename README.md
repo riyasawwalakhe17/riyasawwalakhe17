@@ -23,7 +23,7 @@ I enjoy working with **Spring Boot**, designing RESTful APIs, and continuously i
 - Java, Spring Boot, Hibernate, REST APIs
 
 **Frontend**
-- React, HTML, CSS, Bootstrap
+- React, HTML, CSS
 
 **Database**
 - PostgreSQL, MySQL
@@ -46,17 +46,6 @@ I enjoy working with **Spring Boot**, designing RESTful APIs, and continuously i
 
 https://github.com/riyasawwalakhe17/VehiSoc.git    
 
----
-
-### 🔹 Codexia – Notes Management System
-**Spring Boot | JWT | Azure Blob Storage**
-- Notes upload and management platform
-- Secure authentication using JWT
-- File storage integration with Azure Blob Storage
-
-https://github.com/DhajekarSuyash/Codexia-Backend.git
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyasawwalakhe17&show_icons=true&theme=tokyonight)
